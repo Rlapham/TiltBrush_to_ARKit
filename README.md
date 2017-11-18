@@ -16,4 +16,4 @@ General Steps
 
 ![doc1](https://github.com/Rlapham/TiltBrush_to_ARKit/blob/master/doc_images/doc1.png)
 ![doc2](https://github.com/Rlapham/TiltBrush_to_ARKit/blob/master/doc_images/doc2.png)
-[![video doc](https://github.com/Rlapham/TiltBrush_to_ARKit/blob/master/doc_images/doc3.png)](https://www.youtube.com/watch?v=fr_N8ge6kpk&feature=youtu.be "Walkthrough")
+[![video doc](https://github.com/Rlapham/TiltBrush_to_ARKit/blob/master/doc_images/doc5.png)](https://www.youtube.com/watch?v=fr_N8ge6kpk&feature=youtu.be "Walkthrough")
